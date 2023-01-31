@@ -1,0 +1,5 @@
+.background-image{
+    -fx-background-image: url("file:/D:/Progetti/StonePaperScissors/src/main/resources/img/background.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1920 1080;
+}
